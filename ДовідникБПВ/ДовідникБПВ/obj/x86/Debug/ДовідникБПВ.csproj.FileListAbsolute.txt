@@ -1,0 +1,51 @@
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Properties.Resources.resources
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.csproj.GenerateResource.Cache
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\bin\Debug\ДовідникБПВ.exe
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\bin\Debug\ДовідникБПВ.pdb
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.exe
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.pdb
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.AddUsers.resources
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.AddSoldeir.resources
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Main.resources
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Login.resources
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.ShowDataSoldeir.resources
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Show_AddAdaptability_200.resources
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Show_AddSelfEsteemMentalStates.resources
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Show_AddNPN_A.resources
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Key.resources
+C:\Users\Ostap\Documents\Visual Studio 2010\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.csprojResolveAssemblyReference.cache
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.exe
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.pdb
+D:\Projects\ДовідникБПВ\ДовідникБПВ\bin\Debug\ДовідникБПВ.exe
+D:\Projects\ДовідникБПВ\ДовідникБПВ\bin\Debug\ДовідникБПВ.pdb
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.AddSoldeir.resources
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.AddUsers.resources
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Key.resources
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Main.resources
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Login.resources
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Properties.Resources.resources
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.ShowDataSoldeir.resources
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Show_AddAdaptability_200.resources
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Show_AddNPN_A.resources
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Show_AddSelfEsteemMentalStates.resources
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.csproj.GenerateResource.Cache
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.csproj.ResolveComReference.cache
+D:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.csprojResolveAssemblyReference.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.csprojAssemblyReference.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.csproj.ResolveComReference.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.AddSoldeir.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.AddUsers.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Main.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Properties.Resources.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.ShowDataSoldeir.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Show_AddAdaptability_200.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.csproj.GenerateResource.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.csproj.CoreCompileInputs.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.exe
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.pdb
+E:\Projects\ДовідникБПВ\ДовідникБПВ\bin\Debug\ДовідникБПВ.exe
+E:\Projects\ДовідникБПВ\ДовідникБПВ\bin\Debug\ДовідникБПВ.pdb
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.AddTest.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Debug\ДовідникБПВ.Users.Login.resources

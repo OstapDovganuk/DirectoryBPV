@@ -1,0 +1,17 @@
+E:\Projects\ДовідникБПВ\ДовідникБПВ\bin\Release\ДовідникБПВ.exe
+E:\Projects\ДовідникБПВ\ДовідникБПВ\bin\Release\ДовідникБПВ.pdb
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\DanoSoldatBPV.csprojAssemblyReference.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\DanoSoldatBPV.csproj.ResolveComReference.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\DanoSoldatBPV.AddSoldeir.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\DanoSoldatBPV.AddTest.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\DanoSoldatBPV.AddUsers.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\DanoSoldatBPV.Main.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.Users.Login.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.Properties.Resources.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\DanoSoldatBPV.ShowDataSoldeir.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\DanoSoldatBPV.Show_AddAdaptability_200.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\DanoSoldatBPV.csproj.GenerateResource.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\DanoSoldatBPV.csproj.CoreCompileInputs.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.exe
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.pdb

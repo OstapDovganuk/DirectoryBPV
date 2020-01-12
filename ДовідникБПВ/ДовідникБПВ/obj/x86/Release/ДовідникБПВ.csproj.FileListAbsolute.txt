@@ -1,0 +1,17 @@
+E:\Projects\ДовідникБПВ\ДовідникБПВ\bin\Release\ДовідникБПВ.exe
+E:\Projects\ДовідникБПВ\ДовідникБПВ\bin\Release\ДовідникБПВ.pdb
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.csproj.ResolveComReference.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.AddSoldeir.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.AddTest.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.AddUsers.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.Main.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.Users.Login.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.Properties.Resources.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.ShowDataSoldeir.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.Show_AddAdaptability_200.resources
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.csproj.GenerateResource.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.csproj.CoreCompileInputs.cache
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.exe
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.pdb
+E:\Projects\ДовідникБПВ\ДовідникБПВ\obj\x86\Release\ДовідникБПВ.csprojAssemblyReference.cache
